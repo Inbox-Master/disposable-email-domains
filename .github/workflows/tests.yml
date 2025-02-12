@@ -22,7 +22,7 @@ jobs:
         uses: actions/checkout@master
 
       - name: Install Composer dependencies
-        run: composer install --prefer-dist --no-interaction --no-progress>
+        run: composer install --prefer-dist --no-interaction --no-progress
 
       - name: Setup PHP
         uses: shivammathur/setup-php@v2
