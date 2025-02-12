@@ -3,7 +3,7 @@
 namespace Tests;
 
 use PHPUnit\Framework\TestCase;
-use StephaneBour\Disposable\Domains;
+use InboxMaster\Disposable\Domains;
 
 class ReadmeTest extends TestCase
 {

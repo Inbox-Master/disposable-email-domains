@@ -1,8 +1,8 @@
 <?php
 
-namespace StephaneBour\Disposable;
+namespace InboxMaster\Disposable;
 
-use StephaneBour\Disposable\Exceptions\EmailNotValidException;
+use InboxMaster\Disposable\Exceptions\EmailNotValidException;
 
 class Domains
 {

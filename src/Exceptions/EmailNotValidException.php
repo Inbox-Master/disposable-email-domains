@@ -1,6 +1,6 @@
 <?php
 
-namespace StephaneBour\Disposable\Exceptions;
+namespace InboxMaster\Disposable\Exceptions;
 
 class EmailNotValidException extends \Exception
 {

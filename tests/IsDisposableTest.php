@@ -3,8 +3,8 @@
 namespace Tests;
 
 use PHPUnit\Framework\TestCase;
-use StephaneBour\Disposable\Domains;
-use StephaneBour\Disposable\Exceptions\EmailNotValidException;
+use InboxMaster\Disposable\Domains;
+use InboxMaster\Disposable\Exceptions\EmailNotValidException;
 
 class IsDisposableTest extends TestCase
 {

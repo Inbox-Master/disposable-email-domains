@@ -1,5 +1,5 @@
 {
-    "name": "stephanebour/disposable-email-domains",
+    "name": "inboxmaster/disposable-email-domains",
     "description": "A list of disposable email domains",
     "license": "MIT",
     "authors": [
@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "StephaneBour\\Disposable\\": "src/"
+            "InboxMaster\\Disposable\\": "src/"
         }
     },
     "autoload-dev": {
